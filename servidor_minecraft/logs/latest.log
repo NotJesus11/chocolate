@@ -2514,3 +2514,10 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01:41:48] [Server thread/INFO]: NotTrainok has made the advancement [Getting an Upgrade]
 [01:47:41] [Server thread/INFO]: NotTrainok has completed the challenge [Let There Be Light! (Quest)]
 [01:47:57] [Server thread/INFO]: NotTrainok has made the advancement [Diamonds!]
+[01:52:40] [Server thread/INFO]: Made NotTrainok a server operator
+[01:54:03] [Server thread/INFO]: Player literal{NotTrainok} chose Origin: digs_dnd_origins:variant_human, for layer: origins:origin
+[01:54:41] [Server thread/INFO]: Player literal{NotTrainok} chose Origin: digs_dnd_origins:half-elf/skills/athletics, for layer: origins:skills/skills
+[01:55:21] [Server thread/INFO]: Player literal{NotTrainok} chose Origin: digs_dnd_origins:variant_human/feats/moderately_armored, for layer: origins:feats/variant_human_feats
+[01:55:46] [Server thread/INFO]: Player literal{NotTrainok} chose Origin: origins-classes:warrior, for layer: origins-classes:class
+[01:57:20] [Server thread/INFO]: NotTrainok was slain by Cave Spider
+[01:57:38] [Server thread/INFO]: [NotTrainok: Teleported NotTrainok to -233.500000, 37.500000, 93.500000]
