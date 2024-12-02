@@ -1,4 +1,10 @@
 {
+  "amethyst_imbuement:grant_book_on_first_join": {
+    "criteria": {
+      "amethyst_imbuement:give_if_config": "2024-12-02 01:19:41 +0000"
+    },
+    "done": true
+  },
   "spellbladenext:spellblades/root": {
     "criteria": {
       "always": "2024-12-02 01:19:43 +0000"
@@ -119,12 +125,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:jungle": "2024-12-02 01:19:44 +0000"
-    },
-    "done": false
-  },
   "darkspins:root": {
     "criteria": {
       "darkrpg_info_extras": "2024-12-02 01:19:43 +0000"
@@ -228,12 +228,6 @@
     },
     "done": true
   },
-  "amethyst_imbuement:grant_book_on_first_join": {
-    "criteria": {
-      "amethyst_imbuement:give_if_config": "2024-12-02 01:19:41 +0000"
-    },
-    "done": true
-  },
   "darkbosses:info_bomd_bosses": {
     "criteria": {
       "info_bomd_bosses": "2024-12-02 01:19:43 +0000"
@@ -276,12 +270,6 @@
     },
     "done": true
   },
-  "regions_unexplored:parent": {
-    "criteria": {
-      "load_in_world": "2024-12-02 01:19:44 +0000"
-    },
-    "done": true
-  },
   "darkbosses:root": {
     "criteria": {
       "darkbosses_info_extras": "2024-12-02 01:19:43 +0000"
@@ -303,6 +291,18 @@
   "advancednetherite:recipes/misc/netherite_iron_ingot": {
     "criteria": {
       "has_the_recipe": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle": "2024-12-02 01:19:44 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-12-02 01:19:44 +0000"
     },
     "done": true
   },

@@ -2492,3 +2492,20 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01:21:41] [Server thread/INFO]: Updating all forceload tickets for 2013165f-f22c-305a-8b32-33fa70672379
 [01:23:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [01:23:48] [Server thread/INFO]: a<--[HERE]
+[01:27:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:27:43] [Server thread/INFO]: a<--[HERE]
+[01:33:10] [Server thread/INFO]: [Handshake] Sending channel query
+[01:33:10] [Server thread/INFO]: NotTrainok[/[0:0:0:0:0:0:0:1%0]:60742] logged in with entity id 569 at (10.5, 87.0, 2.5)
+[01:33:10] [Server thread/INFO]: Sending server config values to client
+[01:33:11] [Server thread/INFO]: Server sent config handshake for geode_plus to NotTrainok
+[01:33:11] [Server thread/INFO]: Server sent config handshake for paragon to NotTrainok
+[01:33:11] [Server thread/INFO]: Loading config from file...
+[01:33:11] [Server thread/INFO]: NotTrainok joined the game
+[01:33:11] [Server thread/INFO]: Updating all forceload tickets for 2013165f-f22c-305a-8b32-33fa70672379
+[01:33:17] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[01:34:51] [Server thread/INFO]: Player literal{NotTrainok} chose Origin: lycan:lycan, for layer: origins:origin
+[01:35:13] [Server thread/INFO]: Player literal{NotTrainok} chose Origin: origins-classes:rogue, for layer: origins-classes:class
+[01:35:44] [Server thread/INFO]: Set the time to 1000
+[01:37:07] [Server thread/INFO]: NotTrainok has made the advancement [Monster Hunter]
+[01:37:54] [Server thread/INFO]: NotTrainok has completed the challenge [Real Minecraft Starts Now (Quest)]
+[01:38:29] [Server thread/INFO]: NotTrainok has made the advancement [An Extra Seedy Place]
