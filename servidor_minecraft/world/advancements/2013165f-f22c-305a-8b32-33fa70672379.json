@@ -1,0 +1,310 @@
+{
+  "spellbladenext:spellblades/root": {
+    "criteria": {
+      "always": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:info_story": {
+    "criteria": {
+      "darkrpg_info_extras": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_diamond_block": {
+    "criteria": {
+      "has_ingredients": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "darkbosses:info_graveyard_bosses": {
+    "criteria": {
+      "info_graveyard_bosses": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "darkrpg_intro:info_intro": {
+    "criteria": {
+      "darkrpg_intros": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "darkbosses:info_souls_bosses": {
+    "criteria": {
+      "info_souls_bosses": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_emerald_block": {
+    "criteria": {
+      "has_ingredients": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "darkbosses:info_spellblade_bosses": {
+    "criteria": {
+      "info_spellblade_bosses": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:root": {
+    "criteria": {
+      "darkrpg_info_extras": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_gold_block": {
+    "criteria": {
+      "has_ingredients": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_diamond_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:info_extras": {
+    "criteria": {
+      "darkrpg_info_extras": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:plushables/root": {
+    "criteria": {
+      "root": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:info_casino": {
+    "criteria": {
+      "darkrpg_info_extras": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle": "2024-12-02 01:19:44 +0000"
+    },
+    "done": false
+  },
+  "darkspins:root": {
+    "criteria": {
+      "darkrpg_info_extras": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "things:root": {
+    "criteria": {
+      "tick": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_iron_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "darkbosses:info_vanilla_bosses": {
+    "criteria": {
+      "info_vanilla_bosses": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "darkrpg:info_crafting": {
+    "criteria": {
+      "darkrpg_info_crafting": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:clutter/root": {
+    "criteria": {
+      "requirement": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_emerald_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "rpg_classes:root": {
+    "criteria": {
+      "always": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "rewards:rewards": {
+    "criteria": {
+      "january": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_iron_block": {
+    "criteria": {
+      "has_ingredients": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_ingots": {
+    "criteria": {
+      "has_ingredients": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2024-12-02 01:19:43 +0000",
+      "inv_changed-diamond": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "amethyst_imbuement:grant_book_on_first_join": {
+    "criteria": {
+      "amethyst_imbuement:give_if_config": "2024-12-02 01:19:41 +0000"
+    },
+    "done": true
+  },
+  "darkbosses:info_bomd_bosses": {
+    "criteria": {
+      "info_bomd_bosses": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_gold_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "darktides:info_darktides": {
+    "criteria": {
+      "info_darktides": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "more_rpg_content:root": {
+    "criteria": {
+      "always": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-12-02 01:19:44 +0000"
+    },
+    "done": true
+  },
+  "darkbosses:root": {
+    "criteria": {
+      "darkbosses_info_extras": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_ingot": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 01:19:43 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
