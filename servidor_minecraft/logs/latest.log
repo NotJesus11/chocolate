@@ -1101,3 +1101,49 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:netherite_backtank'
 [22:48:16] [Server thread/INFO]: [voicechat] Disconnecting client DinoBoss01
 [22:48:34] [Server thread/INFO]: [Not Secure] <SoyDRAkin> regalo armor
 [22:48:59] [Server thread/INFO]: NotTrainok has made the advancement [Suit Up]
+[22:50:04] [Server thread/INFO]: [Not Secure] <SoyDRAkin> tengo 4 coras
+[22:50:08] [Server thread/INFO]: [Not Secure] <SoyDRAkin> adicionales
+[22:50:10] [Server thread/INFO]: [Not Secure] <NotTrainok> god
+[22:50:22] [Server thread/INFO]: NotTrainok has made the advancement [Disme A Dozen]
+[22:50:27] [Server thread/INFO]: NotTrainok has made the advancement [Amateur Archaeologist]
+[22:50:35] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-203, y=31, z=-381}
+[22:50:35] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-204, y=31, z=-381}
+[22:50:35] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-203, y=26, z=-380}
+[22:50:35] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-204, y=26, z=-380}
+[22:50:35] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-202, y=28, z=-380}
+[22:51:26] [Server thread/INFO]: SoyDRAkin has made the advancement [Monster Hunter]
+[22:51:26] [Server thread/INFO]: Named entity class_1613['Brog the Bulwark'/4700, l='ServerLevel[world]', x=-387.70, y=116.00, z=-1123.51] died: Brog the Bulwark was slain by SoyDRAkin
+[22:51:46] [Server thread/INFO]: [Not Secure] <SoyDRAkin> mira raiden xddd
+[22:52:03] [Server thread/INFO]: [Not Secure] <NotTrainok> a
+[22:52:09] [Server thread/INFO]: [Not Secure] <NotTrainok> aver
+[22:52:24] [Server thread/INFO]: [Not Secure] <NotTrainok> god
+[22:53:27] [Server thread/INFO]: [Not Secure] <SoyDRAkin> tienes cuero?
+[22:53:46] [Server thread/INFO]: [Not Secure] <SoyDRAkin> tienes cuero?
+[22:53:49] [Server thread/INFO]: [Not Secure] <NotTrainok> no
+[22:53:53] [Thread-39/WARN]: Failed to fetch skin: not found
+[22:53:54] [Server thread/INFO]: DinoBoss01[/127.238.175.130:45005] logged in with entity id 6457 at (-396.0258330129556, 128.0, -1061.6606957273698)
+[22:53:54] [Server thread/INFO]: Sending server config values to client
+[22:53:54] [Server thread/INFO]: Syncing config to DinoBoss01 (3f2f0092-563b-3d5d-b108-74b0ba196af4)
+[22:53:54] [Server thread/INFO]: Loading config from file...
+[22:53:54] [Server thread/INFO]: DinoBoss01 joined the game
+[22:53:55] [Netty Epoll Server IO #0/INFO]: [showmeyourskin] Client of DinoBoss01 accepted server config.
+[22:53:56] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[22:53:59] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player DinoBoss01. Claiming: GRAVE / Robbing: INVENTORY
+[22:53:59] [Server thread/INFO]: [voicechat] Received secret request of DinoBoss01 (18)
+[22:53:59] [Server thread/INFO]: [voicechat] Sent secret to DinoBoss01
+[22:54:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 3f2f0092-563b-3d5d-b108-74b0ba196af4
+[22:54:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 3f2f0092-563b-3d5d-b108-74b0ba196af4
+[22:54:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player DinoBoss01 (3f2f0092-563b-3d5d-b108-74b0ba196af4) successfully connected to voice chat
+[22:54:26] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-648, y=18, z=-900}
+[22:55:06] [Server thread/INFO]: [Not Secure] <DinoBoss01> pues si, los aldeanos tienen fuerza 3
+[22:55:11] [Server thread/INFO]: [Not Secure] <SoyDRAkin> tan buf
+[22:56:04] [Server thread/INFO]: [Not Secure] <SoyDRAkin> pongan horno
+[22:56:09] [Server thread/INFO]: [Not Secure] <DinoBoss01> literal los items te nerfean xd
+[22:56:49] [Server thread/INFO]: DinoBoss01 has made the advancement [A Seedy Place]
+[22:57:57] [Server thread/INFO]: [Not Secure] <SoyDRAkin> qjeso
+[22:57:57] [Server thread/INFO]: [Not Secure] <DinoBoss01> porque dejan las gemas
+[22:58:04] [Server thread/INFO]: [Not Secure] <SoyDRAkin> pq si
+[22:58:06] [Server thread/INFO]: [Not Secure] <NotTrainok> no las se usar
+[22:58:11] [Server thread/INFO]: [Not Secure] <SoyDRAkin> io tpmc
+[22:58:19] [Server thread/INFO]: [Not Secure] <DinoBoss01> y pa que metes el zenith entonces xd
+[22:58:27] [Server thread/INFO]: [Not Secure] <NotTrainok> por la mesa
