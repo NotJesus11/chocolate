@@ -51,11 +51,58 @@
       },
       "region": "global",
       "tunnel_type": "minecraft-java"
+    },
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "south-treasury.gl.at.ply.gg",
+          "assigned_srv": null,
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "924b353d-17e3-4e70-b33b-2e2b5fbeec26",
+          "ip_hostname": "18.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 2611,
+          "port_start": 2610,
+          "region": "global",
+          "static_ip4": "147.185.221.18",
+          "static_ip6": "2602:fbaf:0:1::12",
+          "tunnel_ip": "2602:fbaf:0:1::12"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2025-01-04T19:13:10.020310Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "e74fb49d-2133-4294-b5d7-1feca7109d64",
+      "name": "unnamed",
+      "origin": {
+        "data": {
+          "agent_id": "1b4cb783-f7ed-457f-9adf-fc5193adfaa0",
+          "agent_name": "from-key-e8e6",
+          "local_ip": "127.0.0.1",
+          "local_port": 2610
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "udp",
+      "proxy_protocol": null,
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": null
     }
   ],
   "udp_alloc": {
     "allowed": 6,
-    "claimed": 0,
-    "desired": 0
+    "claimed": 1,
+    "desired": 1
   }
 }
