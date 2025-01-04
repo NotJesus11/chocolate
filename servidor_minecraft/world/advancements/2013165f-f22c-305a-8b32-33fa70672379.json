@@ -140,6 +140,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-01-04 22:42:50 +0000",
+      "minecraft:savanna_plateau": "2025-01-04 23:05:07 +0000",
       "minecraft:beach": "2025-01-04 19:26:18 +0000",
       "minecraft:river": "2025-01-04 21:26:26 +0000",
       "minecraft:forest": "2025-01-04 19:24:26 +0000",
@@ -1001,6 +1002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-01-04 23:02:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-01-04 22:40:32 +0000"
@@ -1034,6 +1041,12 @@
   "soulsweapons:recipes/combat/kirkhammer": {
     "criteria": {
       "has_item": "2025-01-04 22:49:42 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-01-04 23:06:52 +0000"
     },
     "done": true
   },
@@ -1082,6 +1095,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-01-04 22:40:32 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_acacia": "2025-01-04 23:06:52 +0000"
     },
     "done": true
   },
@@ -1208,6 +1227,12 @@
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2025-01-04 22:45:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-04 23:02:51 +0000"
     },
     "done": true
   },
