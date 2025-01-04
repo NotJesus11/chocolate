@@ -899,3 +899,205 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:netherite_backtank'
 [22:38:27] [Server thread/INFO]: DinoBoss01 claimed a grave belonging to DinoBoss01 at 5, 80, -635, minecraft:overworld
 [22:38:34] [Server thread/INFO]: [Not Secure] <DinoBoss01> fuerza 3
 [22:38:41] [Server thread/INFO]: [Not Secure] <NotTrainok> ez
+[22:39:25] [Server thread/INFO]: [Not Secure] <NotTrainok> las cabezas sirven para la mesa de enchant
+[22:39:29] [Server thread/INFO]: [Not Secure] <DinoBoss01> vela negra arcana +2.5?
+[22:39:40] [Server thread/INFO]: [Not Secure] <NotTrainok> igual para mesa
+[22:39:43] [Server thread/INFO]: SoyDRAkin was slain by Arag the Lurker
+[22:39:54] [Server thread/INFO]: [Not Secure] <SoyDRAkin> tp mivida
+[22:40:00] [Server thread/INFO]: [NotTrainok: Teleported SoyDRAkin to NotTrainok]
+[22:40:08] [Server thread/INFO]: SoyDRAkin claimed a grave belonging to SoyDRAkin at 9, 81, -626, minecraft:overworld
+[22:40:15] [Server thread/INFO]: [Not Secure] <NotTrainok> go aldea
+[22:40:33] [Server thread/INFO]: [Not Secure] <DinoBoss01> los aldeanos tienen fuerza 3 tambien?
+[22:40:37] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=80, y=25, z=-886}
+[22:40:40] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-245, y=-11, z=-758}
+[22:40:42] [Server thread/INFO]: [Not Secure] <NotTrainok> no se
+[22:40:48] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-250, y=-32, z=-542}
+[22:40:48] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-257, y=-52, z=-552}
+[22:41:13] [Server thread/INFO]: [Not Secure] <DinoBoss01> bueno tengo chocobo, no montura
+[22:41:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-302, y=-12, z=-830}
+[22:41:23] [Server thread/INFO]: [Not Secure] <SoyDRAkin> x2
+[22:41:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-295, y=-42, z=-745}
+[22:41:27] [Server thread/INFO]: [Not Secure] <NotTrainok> se puede craftear
+[22:41:33] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-351, y=31, z=-337}
+[22:41:33] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-349, y=30, z=-329}
+[22:41:33] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=31, z=-339}
+[22:41:33] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=31, z=-339}
+[22:41:33] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-322, y=26, z=-337}
+[22:41:33] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-319, y=26, z=-339}
+[22:41:33] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-320, y=25, z=-336}
+[22:41:33] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-319, y=25, z=-336}
+[22:41:35] [Server thread/INFO]: [Not Secure] <DinoBoss01> lo se
+[22:41:39] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-255, y=24, z=-1001}
+[22:41:39] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-327, y=25, z=-340}
+[22:41:40] [Server thread/INFO]: [Not Secure] <SoyDRAkin> tengo lana
+[22:41:42] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-318, y=24, z=-1010}
+[22:41:42] [Server thread/INFO]: [Not Secure] <SoyDRAkin> 16
+[22:41:43] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-145, y=15, z=-1020}
+[22:41:52] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-192, y=-54, z=-74}
+[22:41:52] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-192, y=-50, z=-77}
+[22:41:52] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-187, y=-50, z=-72}
+[22:41:52] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-184, y=-45, z=-75}
+[22:41:53] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-177, y=-55, z=-77}
+[22:41:53] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-181, y=-50, z=-73}
+[22:41:53] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-182, y=-45, z=-75}
+[22:41:53] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-172, y=-54, z=-70}
+[22:41:53] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-276, y=-57, z=-243}
+[22:41:55] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-178, y=-45, z=-85}
+[22:41:55] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-178, y=-41, z=-89}
+[22:41:55] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-172, y=-54, z=-92}
+[22:41:55] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-172, y=-54, z=-93}
+[22:41:55] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-175, y=-41, z=-90}
+[22:41:55] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-274, y=-57, z=-245}
+[22:41:55] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-277, y=-57, z=-244}
+[22:41:55] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-195, y=-54, z=-92}
+[22:41:55] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-192, y=-54, z=-88}
+[22:41:55] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-192, y=-50, z=-85}
+[22:41:55] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-183, y=-51, z=-89}
+[22:41:55] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-186, y=-50, z=-90}
+[22:41:55] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-186, y=-45, z=-87}
+[22:41:55] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-189, y=-45, z=-84}
+[22:41:56] [Server thread/INFO]: [Not Secure] <NotTrainok> prestame una feria
+[22:41:58] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-303, y=114, z=386}
+[22:42:01] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-343, y=30, z=-333}
+[22:42:01] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-348, y=36, z=-334}
+[22:42:01] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=31, z=-331}
+[22:42:01] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-376, y=31, z=-419}
+[22:42:01] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-501, y=-59, z=-682}
+[22:42:01] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-500, y=-59, z=-681}
+[22:42:01] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-499, y=-59, z=-681}
+[22:42:01] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-498, y=-59, z=-681}
+[22:42:01] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-501, y=-59, z=-683}
+[22:42:02] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-327, y=-28, z=-957}
+[22:42:02] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-933, y=66, z=-410}
+[22:42:02] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-935, y=66, z=-408}
+[22:42:02] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-935, y=65, z=-408}
+[22:42:02] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-935, y=64, z=-408}
+[22:42:02] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-932, y=65, z=-407}
+[22:42:02] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-936, y=65, z=-405}
+[22:42:02] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-327, y=38, z=-997}
+[22:42:06] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-337, y=26, z=-417}
+[22:42:06] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-335, y=26, z=-415}
+[22:42:06] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-376, y=31, z=-419}
+[22:42:07] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=31, z=-339}
+[22:42:07] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=31, z=-339}
+[22:42:07] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-327, y=25, z=-340}
+[22:42:07] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-497, y=-59, z=-682}
+[22:42:07] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-497, y=-59, z=-683}
+[22:42:07] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=31, z=-331}
+[22:42:11] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-322, y=26, z=-337}
+[22:42:11] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-319, y=26, z=-339}
+[22:42:11] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-320, y=25, z=-336}
+[22:42:11] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-319, y=25, z=-336}
+[22:42:12] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-347, y=36, z=-693}
+[22:42:19] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-370, y=36, z=-302}
+[22:42:19] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-367, y=31, z=-303}
+[22:42:20] [Server thread/INFO]: [Not Secure] <SoyDRAkin> no alumbra la linterna
+[22:42:24] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-371, y=26, z=-306}
+[22:42:24] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-368, y=26, z=-308}
+[22:42:24] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-367, y=31, z=-310}
+[22:42:26] [Server thread/INFO]: [Not Secure] <DinoBoss01> porque no nos separamos xd
+[22:42:27] [Server thread/INFO]: [Not Secure] <SoyDRAkin> digo la antorcha
+[22:42:28] [Worker-Main-9/WARN]: Tried to access a block entity before it was created. class_2338{x=-342, y=137, z=-1073}
+[22:42:28] [Worker-Main-9/WARN]: Tried to access a block entity before it was created. class_2338{x=-342, y=137, z=-1073}
+[22:42:28] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-376, y=31, z=-419}
+[22:42:28] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-342, y=-21, z=-1068}
+[22:42:28] [Server thread/WARN]: Tried to load a block entity for block Block{runes:crafting_altar}[facing=north] but failed at location class_2338{x=-339, y=135, z=-1067}
+[22:42:29] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-2, y=-51, z=-1063}
+[22:42:32] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-272, y=27, z=-357}
+[22:42:32] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-245, y=27, z=-315}
+[22:42:32] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-250, y=32, z=-305}
+[22:42:34] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-351, y=30, z=-358}
+[22:42:36] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-376, y=31, z=-419}
+[22:42:36] [Server thread/WARN]: Tried to load a block entity for block Block{fwaystones:waystone}[active=false,facing=west,generated=true,half=upper,mossy=false,waterlogged=false] but failed at location class_2338{x=-342, y=137, z=-1073}
+[22:42:39] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=31, z=-339}
+[22:42:39] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-325, y=31, z=-339}
+[22:42:39] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-322, y=26, z=-337}
+[22:42:39] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-327, y=25, z=-340}
+[22:42:39] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-326, y=31, z=-331}
+[22:42:39] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-319, y=26, z=-339}
+[22:42:39] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-320, y=25, z=-336}
+[22:42:39] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-319, y=25, z=-336}
+[22:42:39] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-391, y=-36, z=-793}
+[22:42:39] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-203, y=31, z=-381}
+[22:42:39] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-204, y=31, z=-381}
+[22:42:40] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-203, y=26, z=-380}
+[22:42:40] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-204, y=26, z=-380}
+[22:42:40] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-202, y=28, z=-380}
+[22:42:40] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-385, y=-4, z=-943}
+[22:42:41] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-388, y=-16, z=-743}
+[22:42:45] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-206, y=31, z=-384}
+[22:42:45] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-200, y=35, z=-385}
+[22:42:45] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-203, y=33, z=-388}
+[22:42:45] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-198, y=28, z=-384}
+[22:42:45] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-199, y=33, z=-385}
+[22:42:49] [Server thread/INFO]: [Not Secure] <SoyDRAkin> aldews
+[22:42:49] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-422, y=-20, z=-871}
+[22:42:51] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-431, y=-4, z=-748}
+[22:42:52] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-348, y=36, z=-361}
+[22:42:57] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-435, y=-21, z=-751}
+[22:43:01] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-246, y=-50, z=-1115}
+[22:43:01] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-218, y=-39, z=-1106}
+[22:43:05] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-461, y=-4, z=-1087}
+[22:43:11] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-478, y=-45, z=-817}
+[22:43:24] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-362, y=-46, z=-1149}
+[22:43:32] [Server thread/INFO]: DinoBoss01 has reached the goal [Worthy Equipment]
+[22:43:32] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-524, y=35, z=-855}
+[22:43:34] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-381, y=-19, z=-1162}
+[22:43:36] [Server thread/INFO]: DinoBoss01 has made the advancement [Acquire Hardware]
+[22:43:54] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-284, y=19, z=-1212}
+[22:44:05] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-356, y=-25, z=-1224}
+[22:44:10] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-574, y=5, z=-1093}
+[22:44:18] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-557, y=-26, z=-1239}
+[22:44:20] [Server thread/INFO]: [Not Secure] <DinoBoss01> porque hay una champivaca xd
+[22:44:23] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-380, y=-43, z=-1264}
+[22:44:33] [Server thread/WARN]: DinoBoss01 moved wrongly!
+[22:44:34] [Server thread/INFO]: SoyDRAkin has made the advancement [Not a Diamond]
+[22:44:41] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location class_2338{x=-622, y=3, z=-1065}
+[22:44:42] [Server thread/INFO]: [Not Secure] <DinoBoss01> no es buena la champi
+[22:45:00] [Server thread/INFO]: [Not Secure] <DinoBoss01> nms el plugin de combate no me deja pegarle
+[22:45:01] [Server thread/INFO]: SoyDRAkin has made the advancement [Amateur Archaeologist]
+[22:45:10] [Server thread/INFO]: DinoBoss01 was slain by Gowl the Mad
+[22:45:19] [Server thread/INFO]: SoyDRAkin has made the advancement [Suit Up]
+[22:45:19] [Server thread/INFO]: SoyDRAkin has reached the goal [Worthy Equipment]
+[22:45:19] [Server thread/INFO]: SoyDRAkin has made the advancement [Zenith Affixes]
+[22:45:19] [Server thread/INFO]: SoyDRAkin has made the advancement [I Found It Underground]
+[22:45:20] [Server thread/INFO]: SoyDRAkin has made the advancement [Isn't It Iron Pick]
+[22:45:24] [Server thread/INFO]: [Not Secure] <SoyDRAkin> ala mrd
+[22:45:38] [Server thread/INFO]: DinoBoss01 claimed a grave belonging to DinoBoss01 at -416, 106, -1010, minecraft:overworld
+[22:45:39] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-514, y=-43, z=-1280}
+[22:45:51] [Server thread/INFO]: SoyDRAkin has made the advancement [Ice Bucket Challenge]
+[22:45:52] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-416, y=-50, z=-1287}
+[22:45:58] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-138, y=-53, z=-1277}
+[22:46:00] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-200, y=35, z=-385}
+[22:46:00] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-203, y=33, z=-388}
+[22:46:00] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-206, y=31, z=-384}
+[22:46:03] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-198, y=28, z=-384}
+[22:46:03] [Worker-Main-9/ERROR]: Hanging entity at invalid position: class_2338{x=-199, y=33, z=-385}
+[22:46:03] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location class_2338{x=-263, y=3, z=-1302}
+[22:46:09] [Server thread/INFO]: DinoBoss01 was slain by Gowl the Mad
+[22:46:14] [Server thread/INFO]: [Not Secure] <NotTrainok> gg
+[22:46:35] [Server thread/INFO]: DinoBoss01 claimed a grave belonging to DinoBoss01 at -442, 100, -1008, minecraft:overworld
+[22:46:42] [Server thread/INFO]: Named entity class_1438['Gowl the Mad'/4184, l='ServerLevel[world]', x=-443.02, y=97.00, z=-1004.06] died: Gowl the Mad was slain by DinoBoss01
+[22:46:43] [Server thread/INFO]: SoyDRAkin has made the advancement [Disme A Dozen]
+[22:47:25] [Server thread/INFO]: SoyDRAkin has made the advancement [Sweet Dreams]
+[22:47:47] [Server thread/INFO]: NotTrainok has made the advancement [Sweet Dreams]
+[22:47:49] [Server thread/INFO]: [Not Secure] <NotTrainok> zzzz
+[22:47:58] [Server thread/INFO]: DinoBoss01 has made the advancement [Not a Diamond]
+[22:48:00] [Server thread/INFO]: [Not Secure] <NotTrainok> z
+[22:48:01] [Server thread/INFO]: [Not Secure] <NotTrainok> z
+[22:48:01] [Server thread/INFO]: [Not Secure] <NotTrainok> z
+[22:48:01] [Server thread/INFO]: [Not Secure] <NotTrainok> z
+[22:48:03] [Server thread/INFO]: [Not Secure] <SoyDRAkin> z
+[22:48:03] [Server thread/INFO]: [Not Secure] <SoyDRAkin> z
+[22:48:04] [Server thread/INFO]: [Not Secure] <SoyDRAkin> z
+[22:48:04] [Server thread/INFO]: [Not Secure] <SoyDRAkin> z
+[22:48:04] [Server thread/INFO]: [Not Secure] <SoyDRAkin> z
+[22:48:04] [Server thread/INFO]: [Not Secure] <SoyDRAkin> z
+[22:48:04] [Server thread/INFO]: [Not Secure] <SoyDRAkin> z
+[22:48:04] [Server thread/INFO]: [Not Secure] <SoyDRAkin> z
+[22:48:05] [Server thread/INFO]: [Not Secure] <DinoBoss01> voy coño
+[22:48:16] [Server thread/INFO]: DinoBoss01 lost connection: Disconnected
+[22:48:16] [Server thread/INFO]: DinoBoss01 left the game
+[22:48:16] [Server thread/INFO]: [voicechat] Disconnecting client DinoBoss01
+[22:48:34] [Server thread/INFO]: [Not Secure] <SoyDRAkin> regalo armor
+[22:48:59] [Server thread/INFO]: NotTrainok has made the advancement [Suit Up]
