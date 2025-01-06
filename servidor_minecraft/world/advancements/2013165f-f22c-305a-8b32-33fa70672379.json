@@ -2073,15 +2073,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_sandstone": "2025-01-06 02:07:49 +0000"
+      "has_carrot": "2025-01-06 01:49:24 +0000"
     },
     "done": true
   },
-  "graveyard:graveyard/desert_graveyard": {
+  "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
-      "small_desert_graveyard": "2025-01-06 02:10:26 +0000"
+      "has_sandstone": "2025-01-06 02:07:49 +0000"
     },
     "done": true
   },
@@ -2109,45 +2109,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-06 02:11:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-01-06 02:07:49 +0000"
     },
     "done": true
   },
-  "bosses_of_mass_destruction:recipes/void_lily": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-06 02:11:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-01-06 02:07:49 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/featherlight": {
-    "criteria": {
-      "has_item": "2025-01-06 02:11:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-06 02:11:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-01-06 02:11:19 +0000"
     },
     "done": true
   },
@@ -2175,21 +2145,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
-      "has_carrot": "2025-01-06 01:49:24 +0000"
+      "has_sandstone": "2025-01-06 02:07:49 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/desert_graveyard": {
+    "criteria": {
+      "small_desert_graveyard": "2025-01-06 02:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-06 02:11:19 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-06 02:11:19 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/featherlight": {
+    "criteria": {
+      "has_item": "2025-01-06 02:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-06 02:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-06 02:11:19 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-01-06 02:11:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2025-01-06 02:07:49 +0000"
     },
     "done": true
   },
