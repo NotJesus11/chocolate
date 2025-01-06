@@ -1,388 +1,3376 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1736127633774 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1736127885000 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127636892 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127888094 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127640032 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127891222 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127643157 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127894302 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127646240 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127897798 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127649333 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127901021 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127652489 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127904228 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127655613 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127907323 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127658713 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127910429 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127661811 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127913521 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127664965 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127916631 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127668065 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127919714 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127671372 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127922811 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127674485 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127925936 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127677580 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127929044 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127680685 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127932155 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127683797 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127935280 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127686887 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127938376 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127689979 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127941477 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127693097 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127944572 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127696236 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127947788 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127699325 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127950899 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127702412 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127954026 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127705529 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127957120 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127708612 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127960212 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127711732 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127963291 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127714809 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127966400 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127717903 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127969685 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127720999 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127972776 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127724095 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127976028 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127727242 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127979157 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127730370 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127982292 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127733628 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127985386 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127736726 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127988487 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127739848 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127991611 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127742973 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127994708 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127746051 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736127997865 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127749143 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128000955 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127752265 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128004055 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127755358 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128007196 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127758452 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128010320 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127761583 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128013472 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127764664 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128016721 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127767804 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128019817 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127770932 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128022988 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127774038 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128026103 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127777129 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128029240 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127780249 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128032353 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127783347 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128035465 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127786459 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128038589 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127789719 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128041703 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127792828 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128044810 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127795913 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128047940 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127799015 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128051054 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127802127 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128054176 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127805368 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128057292 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127808501 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128060419 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127811621 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128063597 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127814776 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128066719 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127817871 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128069857 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127820989 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128072954 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127824102 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128076087 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127827193 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128079195 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127830264 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128082300 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1736127833468 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1736128085411 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128088526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128091615 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128094704 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128097793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128100897 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128104114 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128107185 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128110450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128113551 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128116622 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128120189 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128123381 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128126478 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128129554 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128132621 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128135690 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128138796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128141898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128145005 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128148107 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128151206 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128154296 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128157418 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128160555 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128163665 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128166852 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128169928 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128173003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128176087 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128179174 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128182268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128185377 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128188477 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128191591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128194682 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128197767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128200879 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128203989 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128207067 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128210152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128213242 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128216525 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128219620 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128222735 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128225962 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128229180 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128232326 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128235422 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128238520 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128241625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128244770 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128247887 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128250988 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128254092 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128257165 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128260257 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128263356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128266460 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128269570 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128272713 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128275832 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128279122 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128282252 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128285396 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128288580 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128291682 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128294835 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128297948 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128301164 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128304291 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128307394 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128310944 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128314036 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128317291 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128320380 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128323546 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128326638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128329724 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128333132 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128336245 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128339353 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128342461 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128345580 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128348712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128351863 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128354970 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128358084 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128361184 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128364263 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128367389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128370514 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128373608 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128376741 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128379839 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128382970 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128386106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128389229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128392350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128395479 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128398607 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128401721 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128404847 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128407974 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128411078 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128414224 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128417321 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128420621 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128423713 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128426840 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128429968 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128433065 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128436163 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128439405 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128442505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128445613 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128448755 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128451852 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128455096 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128458187 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128461277 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128464389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128467500 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128470602 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128473692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128476785 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128479909 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128483013 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128486120 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128489223 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128492339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128495455 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128498576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128501711 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128504817 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128508193 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128511285 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128514361 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128517508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128520606 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128523870 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128526979 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128530074 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128533187 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128536291 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128539384 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128542491 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128546018 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128549433 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128552687 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128555880 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128558977 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128562078 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128565221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128568322 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128571442 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128574556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128577690 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128580833 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128583927 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128587028 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128590126 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128593229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128596333 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128599443 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128602631 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128605880 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128609153 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128612253 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128615465 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128618571 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128621705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128624796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128627907 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128631051 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128634286 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128637378 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128640486 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128643610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128646712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128649844 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128652946 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128656051 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128659199 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128662299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128665389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128668506 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128671602 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128674724 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128677818 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128680946 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128684042 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128687131 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128690225 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128693597 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128696690 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128699778 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128702867 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128706002 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128709107 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128712209 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128715311 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128718438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128721538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128724649 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128727741 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128730866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128733988 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128737112 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128740247 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128743344 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128746476 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128749623 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128752746 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128755842 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128758940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128762067 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128765173 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128768273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128771573 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128774902 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128778057 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128781152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128785104 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128788221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128791320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128794443 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128797546 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128800635 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128803893 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128806999 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128810101 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128813240 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128816339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128819537 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128822776 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128825960 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128829052 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128832189 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128835355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128838472 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128841567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128844670 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128847765 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128850868 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128854001 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128857106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128860200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128863458 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128866716 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128869846 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128872921 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128876014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128879134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128882214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128885312 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128888422 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128891510 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128894643 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128897742 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128900844 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128903961 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128907064 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128910164 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128913270 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128916505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128919606 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128922705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128925826 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128928910 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128932009 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128935127 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128938525 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128941844 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128944944 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128948045 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128951171 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128954307 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128957401 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128960503 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128963923 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128967034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128970157 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128973250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128976589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128980155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128983268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128986765 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128989973 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128993069 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128996165 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736128999272 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129002388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129005478 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129008619 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129011734 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129014854 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129017957 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129021102 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129024215 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129027288 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129030404 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129033474 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129036571 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129039671 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129042758 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129045856 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129048957 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129052185 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129055272 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129058716 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129061809 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129064937 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129068035 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129071133 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129074253 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129077371 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129080475 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129083576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129086673 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129089775 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129092899 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129095994 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129099099 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129102204 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129105497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129108611 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129111726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129114847 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129117940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129121014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129124108 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129127208 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129130312 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129133412 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129136544 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129139654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129142779 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129145850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129148947 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129152043 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129155164 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129158235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129161355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129164467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129167609 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129170712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129173806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129176886 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129180052 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129183156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129186242 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129189348 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129192472 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129195583 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129198669 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129201780 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129204895 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129208034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129211175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129214314 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129217411 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129220540 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129223638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129226733 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129229955 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129233066 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129236543 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129239652 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129242751 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129245869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129248966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129252068 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129255215 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129258314 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129261429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129264589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129267695 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129270780 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129274059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129277555 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129280680 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129283787 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129286874 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129290012 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129293132 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129296260 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129299767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129302856 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129305964 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129309034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129312127 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129315218 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129318333 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129321448 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129324569 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129327713 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129330869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129333966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129337074 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129340229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129343380 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129346497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129349610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129352720 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129355818 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129358916 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129362017 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129365110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129368227 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129371326 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129374417 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129377518 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129380641 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129383773 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129386869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129390342 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129393465 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129396652 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129399768 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129402863 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129406025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129409167 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129412269 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129415542 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129418666 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129421802 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129424905 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129428031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129431184 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129434286 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129437455 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129440572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129443766 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129446866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129450029 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129453142 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129456257 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129459366 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129462483 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129465583 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129468699 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129471804 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129474912 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129478114 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129481313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129484454 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129487578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129490740 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129493851 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129496985 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129500108 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129503202 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129506350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129509445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129512525 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129515617 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129518713 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129521823 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129524949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129528082 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129531193 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129534282 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129537371 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129540458 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129543559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129546654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129549770 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129552844 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129555943 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129559172 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129562286 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129565383 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129568492 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129571592 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129574717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129577897 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129581013 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129584149 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129587240 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129590479 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129593585 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129596685 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129599782 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129602993 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129606089 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129609208 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129612287 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129615404 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129618513 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129621638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129624753 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129627990 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129631075 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129634151 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129637245 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129640343 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129643616 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+front-shoes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+south-treasury.gl.at.ply.gg:2610 => 127.0.0.1:2610 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1736129646714 tunnel running, 2 tunnels registered
 
 
 TUNNELS
